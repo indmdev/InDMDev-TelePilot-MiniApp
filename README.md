@@ -3,6 +3,10 @@ _One powerful dashboard to manage ALL your Telegram channels and groups. No limi
 The Ultimate Telegram Channel & Group Manager.
 One powerful dashboard to manage ALL your Telegram channels and groups. No limits. No coding. Just results._
 
+
+<img width="627" height="1280" alt="image" src="https://github.com/user-attachments/assets/d18f182b-2dbc-4628-afeb-2bff87dd9a04" />
+
+
  ━━━━━━━━━━━━━━━━━━
 
 📢 Channel & Group Management:
