@@ -1,4 +1,8 @@
 # Telegram Summary Bot With MiniApp Control Panel
+
+_Telegram Summary Bots is an AI-powered tools that condense long group chats, articles, PDFs, and voice messages into concise, actionable summaries.
+_
+
 _Powerful AI-powered manager for Telegram channels and groups, Summarize and query channel and group chats. No limits. No coding. Just results.
 Best MiniApp for businesses, marketers, and agencies who want to grow rapidly on Telegram and effortlessly manage their Channels and Groups via a single Dashboard.
 The Ultimate Telegram Channel & Group Manager._
